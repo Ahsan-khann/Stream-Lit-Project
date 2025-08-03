@@ -48,14 +48,12 @@ This is built **without loops**, to master core logic step-by-step before moving
 
 ## 🌐 Live Demo
 
-Try it now 👉 [https://your-app-link.streamlit.app](https://your-app-link.streamlit.app)  
-*(Replace with your actual link)*
+Try it now 👉 https://ahsan-khann-stream-lit-project-profile-analyzer-whl2xz.streamlit.app/ 
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📫 Email: your.email@example.com
+- 💼 LinkedIn www.linkedin.com/in/ahsankhan871
 
 ---
